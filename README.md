@@ -1,6 +1,11 @@
 # Docker-ExpressJS
 Dockerfile to quickly make ExpressJS app with API on port 8080
 
+
+# Install
+1) Clone this repo to a folder in your system
+* `git clone https://github.com/Codypinto23/Docker-ExpressJS.git`
+
 # To Run Dockerfile
 
 1) First build the docker image (we'll name it 'express-image')
